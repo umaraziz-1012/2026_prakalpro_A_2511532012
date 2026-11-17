@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 nilai_2012 = int(input("Masukkan Nilai : "))
 if nilai_2012 >= 81:
     print("A")
@@ -8,4 +9,16 @@ elif nilai_2012 >= 60:
 elif nilai_2012 >= 50 :
     print("D")
 else:
+=======
+nilai_2012 = int(input("Masukkan Nilai : "))
+if nilai_2012 >= 81:
+    print("A")
+elif nilai_2012 >=70:
+    print("B")
+elif nilai_2012 >= 60:
+    print("C")
+elif nilai_2012 >= 50 :
+    print("D")
+else:
+>>>>>>> 8e15eaf0f37a63d9c91ab3daa75f65bd72c441be
     print("E")
