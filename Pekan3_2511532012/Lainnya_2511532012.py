@@ -38,4 +38,3 @@ print("objek1 is objek2 = ",hasil_2012)
 print("\nPerbandingan Identitas dan Nilai Objek")
 print("Objek1 is objek3 =", objek1_2012 is objek3_2012)
 print("Objek1 == objek3 =", objek1_2012 == objek3_2012)
-
